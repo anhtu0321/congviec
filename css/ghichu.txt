@@ -1,0 +1,2 @@
+- all.min.css là font awesome để chèn icon (nó link tới thư mục 'webfonts' ở bên ngoài)
+- bootstrap.min.css là bootstrap 4 không hỗ trợ icon, sử dụng để tạo các button sẵn
